@@ -19,3 +19,4 @@ console.log(clock2());
 console.log(clock1());
 console.log(clock1());
 console.log(clock2());
+console.log(clock2());
