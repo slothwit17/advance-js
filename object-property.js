@@ -18,4 +18,4 @@ const biggerOne = student.find ( x => x.id > 400);
 console.log(names);
 console.log(ids);
 console.log(bigger);
-console.log(biggerOne);
+console.log(biggerOne); 
